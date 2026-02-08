@@ -1,8 +1,8 @@
 # Hi, I'm Bhusan
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graduation-cap/graduation-cap.svg" width="18"/> B.Tech Student from Sikkim  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="18"/> Passionate about Web Development  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaf/leaf-original.svg" width="18"/> Learning by building real projects
+<img src="https://img.icons8.com/fluency/20/student-male.png"/> B.Tech Student from Sikkim  
+<img src="https://img.icons8.com/fluency/20/source-code.png"/> Passionate about Web Development  
+<img src="https://img.icons8.com/fluency/20/learning.png"/> Learning by building real projects
 
 ---
 
