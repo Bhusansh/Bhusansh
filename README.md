@@ -1,13 +1,13 @@
-# Hi, I'm Bhusan 👋
+# Hi, I'm Bhusan
 
-🎓 B.Tech Student from Sikkim  
-💻 Passionate about Web Development  
-🌱 Learning by building real projects  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graduation-cap/graduation-cap.svg" width="18"/> B.Tech Student from Sikkim  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="18"/> Passionate about Web Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaf/leaf-original.svg" width="18"/> Learning by building real projects
 
 ---
 
 ## 🛠 Tech Stack
-## 🧰 Skills
+## <img src="https://img.icons8.com/ios-filled/22/000000/maintenance.png"/> Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -19,11 +19,16 @@
 
 ---
 
-## 📌 Projects
-🔹 **Civic / Admin Dashboard Project**  
+## Projects
+
+<img src="https://img.icons8.com/ios-filled/20/000000/admin-settings-male.png"/>  
+**Civic / Admin Dashboard Project**  
 Admin panel for managing events, users, and approvals.
 
-🔹 **Portfolio Websites**  
+<br/>
+
+<img src="https://img.icons8.com/ios-filled/20/000000/web-design.png"/>  
+**Portfolio Websites**  
 Modern, responsive portfolio sites built with TypeScript.
 
 ---
@@ -33,5 +38,6 @@ Modern, responsive portfolio sites built with TypeScript.
 
 ---
 
-📍 East Sikkim  
-🤝 Open to collaboration & learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/map/map-original.svg" width="16"/> East Sikkim  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-original.svg" width="16"/> Open to collaboration & learning
+
