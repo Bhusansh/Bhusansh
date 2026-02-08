@@ -1,12 +1,12 @@
 # Hi, I'm Bhusan
 
-<img src="https://img.icons8.com/fluency/20/student-male.png"/> B.Tech Student from Sikkim  
-<img src="https://img.icons8.com/fluency/20/source-code.png"/> Passionate about Web Development  
-<img src="https://img.icons8.com/fluency/20/learning.png"/> Learning by building real projects
+🎓 B.Tech student from Sikkim  
+💻 Passionate about Web Development  
+🌱 Learning by building real-world projects
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/22/000000/maintenance.png"/> Skills
+## Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -19,23 +19,20 @@
 
 ## Projects
 
-<img src="https://img.icons8.com/ios-filled/20/000000/admin-settings-male.png"/>  
-**Civic / Admin Dashboard Project**  
+🔹 **Civic / Admin Dashboard Project**  
 Admin panel for managing events, users, and approvals.
 
-<br/>
-
-<img src="https://img.icons8.com/ios-filled/20/000000/web-design.png"/>  
-**Portfolio Websites**  
+🔹 **Portfolio Websites**  
 Modern, responsive portfolio sites built with TypeScript.
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Bhusansh&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhusansh&theme=tokyonight)
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/map/map-original.svg" width="16"/> East Sikkim  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handshake/handshake-original.svg" width="16"/> Open to collaboration & learning
-
+📍 Sikkim, India  
+🌐 Portfolio: https://bhusansharma.vercel.app  
+🤝 Open to collaboration, internships & learning
